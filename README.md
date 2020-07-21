@@ -3,7 +3,7 @@
 I'm Karthick Harimoorthy, but a lot of people just call me Karthick.
 
 Here's a little about what I'm currently up to:
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=umairarshadbutt&show_icons=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=karthykarthick&show_icons=true&hide_border=true" />
 
 - 🔥 I work as a software engineer
 - 🦙 Pronouns: [He/Him/His/Himself](https://pronoun.is/he)
