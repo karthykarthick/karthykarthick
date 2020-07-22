@@ -13,7 +13,7 @@ Here's a little about what I'm currently up to:
 
 My hobbies include random stuff like music 👨🏻‍🎤, reading 📚 and coffee ☕️.
 
-If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/karthick-harimoorthy/) DM or on the contact form through my [personal portfolio site](http://umairarshad.me/).
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/karthick-harimoorthy/) DM or on the contact form through my [personal portfolio site]().
 
 
 <!--
