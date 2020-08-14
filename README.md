@@ -4,7 +4,7 @@ I'm Karthick Harimoorthy, but a lot of people just call me Karthick.
 
 Here's a little about what I'm currently up to:
 
-  [![Karthick's github stats](https://github-readme-stats.vercel.app/api?username=karthykarthick&show_icons=true&line_height=18&show_icons=true&theme=vue)](https://github.com/karthykarthick/github-readme-stats)
+  [![Karthick's github stats](https://github-readme-stats.vercel.app/api?username=karthykarthick&show_icons=true&line_height=17&show_icons=true&theme=vue)](https://github.com/karthykarthick/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthykarthick&show_icons=true&layout=compact&theme=vue)](https://github.com/karthykarthick/github-readme-stats)
 
 
