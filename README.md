@@ -3,7 +3,7 @@
 I'm Karthick Harimoorthy, but a lot of people just call me Karthick.
 
 Here's a little about what I'm currently up to:
- 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=karthykarthick&show_icons=true&hide_border=true" />
   [![Karthick's github stats](https://github-readme-stats.vercel.app/api?username=karthykarthick&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/karthykarthick/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthykarthick&show_icons=true&layout=compact&theme=vue)](https://github.com/karthykarthick/github-readme-stats)
 
@@ -58,8 +58,5 @@ Here are some ideas to get you started:
 
 ###  📫 How to reach me
 
-- website: [@umairarshad.me](https://umairarshad.me/)
-- twitter: [@its_UmairArshad](https://twitter.com/its_UmairArshad)
-- medium: [@umair6622](https://medium.com/@umair6622)
-- linkedin: [@umair-arshad-butt](https://www.linkedin.com/in/umair-arshad-butt/)
+- linkedin: [@karthick-harimoorthy](https://www.linkedin.com/in/karthickharimoorthy/)
 -->
