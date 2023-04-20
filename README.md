@@ -4,9 +4,9 @@
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
 ### Software Developer, Engineer and Musician.
-- 💻 Goal: Landing a devops job which I am proud of who I'm working with and what I'm working for!
+- 💻 Goal: Landing a Front End job which I am proud of who I'm working with and what I'm working for!
 - ⚙️ Computer Engineer that fell in love with coding.
-- 🌱 Learning Devops.
+- 🌱 Learning Front End Devlopment.
 - 🔊 Very communicative and proactive.
 - ⚡ Fun fact: the only things I like more than talking are playing/listening to music.
 
